@@ -5,7 +5,10 @@ A simple Restful API created by .NET Web API.
 
 ### Prerequisites
 
-N.A.
+1. Database is using MS-SQL, configure your DB name and connection in the Web.config file.
+
+2. Under Blog folder, there is a SQL file named "Create Tables" which will help generate the 3 tables needed for this project.
+
 
 ### Installing
 
